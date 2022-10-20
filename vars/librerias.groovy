@@ -1,3 +1,3 @@
 def call(String name, String dayOfWeek) {
-    sh "echo Hello world ${name}. It is ${dayOfWeek}."
+    sh "echo Hola ${name}. Esto es una prueba de ${dayOfWeek}."
 }
