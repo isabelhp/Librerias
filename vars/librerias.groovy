@@ -2,4 +2,4 @@
 //    sh "echo Hola ${name}. Esto es una prueba de ${dayOfWeek}."
 //}
 
-def version = readYaml file: "release.yml"
+//def version = readYaml file: "release.yml"
